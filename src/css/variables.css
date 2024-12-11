@@ -1,0 +1,27 @@
+
+:root {
+   
+    --primary-color: #0a194f; 
+    --secondary-color: #ffffff; 
+    --text-color: #333333; 
+    --subtext-color: #555555; 
+    --card-bg-color: var(--secondary-color); 
+    --card-border-color: #dddddd; 
+    --card-shadow-color: rgba(0, 0, 0, 0.1); 
+    --card-hover-shadow-color: rgba(0, 0, 0, 0.15); 
+  
+    
+   --font-family-regular:"Roboto-Regular";
+   --font-family-bold:"Roboto-Bold";
+   --font-family-new:"Oswald";
+    
+  
+    --header-font-size: 3rem; 
+    --card-title-size: 1.4rem; 
+    --card-subtext-size: 1rem; 
+  
+    
+    --max-width: 1200px; 
+    --img-width: 100%; 
+    --img-height: 200px; 
+  }
