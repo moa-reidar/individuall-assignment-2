@@ -1,4 +1,9 @@
-Real Madrid Squad Responsive Web Page
+
+link github: https://github.com/moa-reidar/individuall-assignment-2.git 
+
+link netlify: https://675a2ba9b7f803aafe60ab5d--warm-churros-f5733f.netlify.app/
+
+**Real Madrid Squad Responsive Web Page**
 
 
 Project Overview
